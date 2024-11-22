@@ -2,4 +2,4 @@
 
 echo "Hello World"
 
-echo "This is a change I made on GitHub.com, and edited this on my computer"
+echo "This is a change I made on GitHub.com, and edited this on my computer - combined with change on GitHub.com"
